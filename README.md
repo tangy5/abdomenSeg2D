@@ -1,4 +1,4 @@
-# 2D state-of-the-art segmentation for Abdominal multi-organ segmentation.pytorch
+# 2D State-of-the-art method for Abdominal Multi-organ Segmentation.pytorch
 
 The purpose of this repository is to maintain a version of state-of-the-art segmentation method for general medical image segmentation tasks.
 
@@ -30,7 +30,7 @@ python main.py --train --exp bn_lr7e-3 --epochs 50 --base_lr 0.007
 ```bash
 mkdir data
 cd data
-![ref_intens_clip_A](./figs/BTCV_demo.png)
+| ![ref_intens_clip_A](./figs/BTCV_demo1.png) |  ![padded_C](./figs/BTCV_demo2.png) | ![ref_intens_clip_A](./figs/BTCV_demo3.png) |
 ```
 
 ## Prepare PASCAL VOC 2012 Dataset
