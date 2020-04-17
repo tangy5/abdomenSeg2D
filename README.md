@@ -32,7 +32,7 @@ mkdir data
 cd data
 ```
 | ![ref_intens_clip_A](./figs/BTCV_demo1.png) |  ![padded_C](./figs/BTCV_demo2.png) | ![ref_intens_clip_A](./figs/BTCV_demo3.png) |
-
+|:----------:|:-------------:|:------:|
 
 ## Prepare PASCAL VOC 2012 Dataset
 ```bash
