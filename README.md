@@ -30,7 +30,7 @@ python main.py --train --exp bn_lr7e-3 --epochs 50 --base_lr 0.007
 ```bash
 mkdir data
 cd data
-|![BTCV_demo](./figs/BTCV_demo.png)|
+![ref_intens_clip_A](./figs/BTCV_demo.png)
 ```
 
 ## Prepare PASCAL VOC 2012 Dataset
